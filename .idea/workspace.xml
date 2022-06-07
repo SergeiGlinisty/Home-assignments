@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a334d663-66d0-46ae-bc77-a66f95e6142e" name="Changes" comment="" />
+    <list default="true" id="a334d663-66d0-46ae-bc77-a66f95e6142e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/Dz3_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/practica1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson3/practica2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson4/Dz4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson4/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson4/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson4/Practice2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson4/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson4/Practice3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson5/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson5/Task5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson5/Task5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstProject/src/Lesson6/Task6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstProject/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyFirstProject" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,7 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/study/JAVA/automation_testing_java_course/firstProject/MyFirstProject",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,5 +69,20 @@
       <updated>1652635405142</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/MyFirstProject/src/Lesson2/Dz1.java</url>
+          <line>3</line>
+          <properties class="Lesson2.Dz1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
